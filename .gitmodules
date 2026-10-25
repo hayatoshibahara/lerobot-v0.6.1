@@ -1,0 +1,9 @@
+[submodule "vendor/lerobot"]
+	path = vendor/lerobot
+	url = https://github.com/huggingface/lerobot.git
+[submodule "vendor/lerobot-v0.6.0"]
+	path = vendor/lerobot-v0.6.0
+	url = https://github.com/hayatoshibahara/lerobot-v0.6.0.git
+[submodule "vendor/lerobot-0.4.2"]
+	path = vendor/lerobot-0.4.2
+	url = https://github.com/hayatoshibahara/lerobot-0.4.2.git
